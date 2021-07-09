@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Jyotsana Singh</h1>
 <h3 align="center">A passionate coder and Content Writer eager to explore. I love learning new stuff, increasing connections and always in search of opportunities.</h3>
