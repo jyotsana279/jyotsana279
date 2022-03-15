@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **improving my coding and learning new programming languages**
 
-- 🌱 I’m currently learning **C++, Python and Java Script**
+- 🌱 I’m currently learning **C++, Java and Flutter**
 
 - 🤝 I’m looking for help with **future geeks who are ready to make a new change in the society.**
 
